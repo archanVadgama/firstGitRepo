@@ -105,3 +105,7 @@ git remote set-url origin https://<token>@github.com/<username>/<repo>
 ```
 git push origin branch_name
 ```
+- To pull code from repo to local we use git pull
+```
+git pull origin branch_name
+```

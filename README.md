@@ -1,4 +1,4 @@
-# Git Repo Steps for Ubuntu 
+# GitHub step by step guide for ubuntu system
 
 ## Step 1
 - Open ubuntu terminal
